@@ -1,0 +1,40 @@
+{
+  "name": "work-demos",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@antv/g6": "^4.5.0",
+    "core-js": "^3.16.2",
+    "element-ui": "^2.15.6",
+    "monaco-editor": "^0.27.0",
+    "print-js": "^1.6.0",
+    "sortablejs": "^1.14.0",
+    "vue": "^2.6.14",
+    "vue-drag-resize": "^1.5.4",
+    "vue-markdown": "^2.2.4",
+    "vue-masked-input": "^0.5.2",
+    "vue-router": "^3.5.2",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-eslint": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-html": "^6.1.2",
+    "eslint-plugin-vue": "^5.0.0",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "monaco-editor-webpack-plugin": "^4.1.2",
+    "vue-markdown-loader": "^2.4.1",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
